@@ -11,6 +11,7 @@ function Input() {
 
     return (
         <div>
+            <p>Enter your name:</p>
             <form>
                 <label>
                     Enter your name:

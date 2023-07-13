@@ -6,7 +6,7 @@ function Input() {
 
   function handleChange(event) {
     setName(event.target.value);
-    setGreeting(`Hello ${name}n!`);
+    setGreeting(`Hello ${name}!`);
   }
 
   return (
